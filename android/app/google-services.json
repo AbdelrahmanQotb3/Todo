@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956970530688",
+    "project_id": "todocashing",
+    "storage_bucket": "todocashing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956970530688:android:f5ac953f0aeacbb7157365",
+        "android_client_info": {
+          "package_name": "com.example.todo_cashing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPtFcNmgXm-TtG9YWS_zwDUjV3oICe2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
